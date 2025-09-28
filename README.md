@@ -30,7 +30,7 @@ Prints the lookup table for transparency.
 
 Supports ties by returning all longest common substrings.
 
-🖥️ Example Execution
+Example Execution
 Enter first string: ABAB
 Enter second string: BABA
 
